@@ -8,7 +8,7 @@
 
 ### 🖥️ 화면 샘플
 
-![인스타그램 피드 레이아웃 화면 샘플](./img//readme.png)
+<img src="./img/readme.png" alt="인스타그램 피드 레이아웃 화면 샘플" width="70%">
 
 ### 🔨 Tech
 
