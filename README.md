@@ -8,8 +8,7 @@
 
 ### 🖥️ 화면 샘플
 
-<img src="./assets/readme-login.png" alt="인스타그램 로그인 레이아웃 화면 샘플" width="30%">
-<img src="./assets/readme-feed.png" alt="인스타그램 피드 레이아웃 화면 샘플" width="30%">
+<img src="./assets/readme-login.png" alt="인스타그램 로그인 레이아웃 화면 샘플" width="40%"><img src="./assets/readme-feed.png" alt="인스타그램 피드 레이아웃 화면 샘플" width="40%">
 
 ### 🔨 Tech
 
