@@ -90,11 +90,23 @@ body {
 .top-left {
   grid-area: top-left;
   display: flex;
-  font-size: 10px;
   width: 100%;
   height: 100%;
   align-items: center;
   justify-content: space-around;
+}
+
+.top-left span {
+  cursor: pointer;
+}
+
+.top-left span:nth-of-type(1):hover {
+  color: red;
+}
+
+#fill-heart {
+  display: none;
+  fill: red;
 }
 
 .top-center {
@@ -110,11 +122,14 @@ body {
 .top-right {
   grid-area: top-right;
   display: flex;
-  font-size: 10px;
   width: 100%;
   height: 100%;
   align-items: center;
-  justify-content: center;
+  justify-content: right;
+}
+
+.top-right span {
+  padding-right: 10px;
 }
 
 .like {
